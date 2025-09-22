@@ -1,3 +1,4 @@
 library(dplyr)
 library(tidyverse) #World Hello
-library(DBI) - fejl
+library(DBI) - new
+
